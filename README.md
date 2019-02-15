@@ -29,9 +29,9 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
   -- Preamplifier model installed
   -- Preamplifier settings
   -- Conversion Digital Units to photon number
--  Channel 2 configuration: ...
+*  Channel 2 configuration: ...
 
--  objective installed,
+*  objective installed,
 
 *  Wavelength
 *  GDD
