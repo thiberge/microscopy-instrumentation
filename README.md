@@ -6,7 +6,7 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 ## List of fields to record:
 
-## General categories of elements:
+### General categories of elements:
 
 * Objective
 * Filters
