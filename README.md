@@ -24,13 +24,13 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 * State of a microscope (calibration):
 
-* Wavelength
-* GDD
-* PSF
-* Flat Field
-* Field Curvature
-* ScanImage Percentage Power conversion to mW
-* Pulse width at sample
-* Preamplifier settings
-* Conversion Digital Units to photon number
+- Wavelength
+- GDD
+- PSF
+- Flat Field
+- Field Curvature
+- ScanImage Percentage Power conversion to mW
+- Pulse width at sample
+- Preamplifier settings
+- Conversion Digital Units to photon number
 
