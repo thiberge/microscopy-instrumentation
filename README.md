@@ -23,24 +23,24 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 #### Status of a microscope and  calibration:
 
-- Channel 1 configuration:
+*  Channel 1 configuration:
   -- color
   -- PMT installed
   -- Preamplifier model installed
   -- Preamplifier settings
   -- Conversion Digital Units to photon number
-- Channel 2 configuration: ...
+-  Channel 2 configuration: ...
 
-- objective installed,
+-  objective installed,
 
-- Wavelength
-- GDD
-- Pulse width at sample
-- PSF
-- Flat Field
-- Field Curvature
-- ScanImage Percentage Power conversion to mW
-- Fluorescein recording to verify MP proper power law
+*  Wavelength
+*  GDD
+*  Pulse width at sample
+*  PSF
+*  Flat Field
+*  Field Curvature
+*  ScanImage Percentage Power conversion to mW
+*  Fluorescein recording to verify MP proper power law
 
 
 
