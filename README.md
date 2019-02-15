@@ -6,9 +6,9 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 #### General categories of elements:
 
-* Objectives
-* Filters (supplier, catalogue number or custom supplier assigned name or number, description, tiff/jpeg uploaded spectra)
-* PMTs list (fields include name, serial number, date of production, date of installation, color it is used for, QE)
+* Objectives: List of all Objectives used in the lab
+* Filters : List of all filters used in the labs with details of supplier, catalogue number or custom supplier assigned name or number, description, and tiff/jpeg/png or excel uploaded spectra
+* PMTs list (fields include name, serial number, date of production, date of installation, microscope name/location, color it is used for, QE measurements)
 * Laser (brand, head serial number, location, date of most recent install, date of cooling liquid replacement, date of last wavelength tuning routine run, measurement of power spectrum at specific wavelength)
 * Scanners type (assembly type (XY mount, XY lens conjugated, XYY) supplier, model, resonant/non-resonant, Res freq)
 * GDD method (one field taking the values of “internal to laser”, “external table”, “both”)
@@ -16,12 +16,12 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 * Preamplifiers list 
 * DAQ system (NI chassis / NI6710 / ScanImageBoard(2019)...)
 
-#### Specifics of individual microscopes:
+#### Specifics of individual microscopes (A priori, these values are fixed)
 
 - Microscope (name, location, categorie, its laser, its filters, fast z-method, GDD method, scanner type)
 
 
-#### Status of a microscope (calibration):
+#### Status of a microscope and  calibration:
 
 - Channel 1 configuration:
   -- color
@@ -29,7 +29,7 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
   -- Preamplifier model installed
   -- Preamplifier settings
   -- Conversion Digital Units to photon number
-- Channel 2 configuration
+- Channel 2 configuration: ...
 
 - objective installed,
 
