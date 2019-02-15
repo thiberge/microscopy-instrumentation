@@ -2,9 +2,7 @@
 DataJoint pipeline for maintenance and configuration of microscopy instrumentation
 
 
-# Notes (preliminary)
-
-## List of fields to record:
+## Notes (preliminary): List of fields to record:
 
 #### General categories of elements:
 
