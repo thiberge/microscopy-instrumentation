@@ -6,7 +6,7 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 ## List of fields to record:
 
-### General categories of elements:
+#### General categories of elements:
 
 * Objective
 * Filters
@@ -17,12 +17,12 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 * Fast Z-scanning (one field taking the values of “remote focussing”, “liquid lens”, “electrowetting lens”, “piezo-objective”)
 
 
-* Specifics of individual microscopes:
+#### Specifics of individual microscopes:
 
-* Microscope (name, location, categorie, its laser, its objective, its PMTs, its filters/custom filters)
+- Microscope (name, location, categorie, its laser, its objective, its PMTs, its filters/custom filters)
 
 
-* State of a microscope (calibration):
+#### Status of a microscope (calibration):
 
 - Wavelength
 - GDD
