@@ -18,8 +18,7 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 #### Specifics of individual microscopes (A priori, these values are fixed)
 
-- Microscope (name, location, categorie, its laser, its filters, fast z-method, GDD method, scanner type)
-
+* Microscope (name, location, categorie, its laser, its filters, fast z-method, GDD method, scanner type)
 
 #### Status of a microscope and  calibration:
 
@@ -30,9 +29,7 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
   -- Preamplifier settings
   -- Conversion Digital Units to photon number
 *  Channel 2 configuration: ...
-
 *  objective installed,
-
 *  Wavelength
 *  GDD
 *  Pulse width at sample
