@@ -8,12 +8,12 @@ DataJoint pipeline for maintenance and configuration of microscopy instrumentati
 
 #### General categories of elements:
 
-* Objective
+* Objectives
 * Filters
-* PMT list (name, serial number, date of production, date of installation)
+* PMTs list (fields include name, serial number, date of production, date of installation, color it is used for)
 * Laser (brand, head serial number, location, date of most recent install, date of cooling liquid replacement, date of last wavelength tuning routine run, measurement of power spectrum at specific wavelength)
-* Scanners type (resonant/non-resonant, Res freq, size in mm)
-* GDD (one field taking the values of “internal to laser”, “external table”, “both”)
+* Scanners type (assembly type (XY mount, XY lens conjugated, XYY) supplier, model, resonant/non-resonant, Res freq)
+* GDD method (one field taking the values of “internal to laser”, “external table”, “both”)
 * Fast Z-scanning (one field taking the values of “remote focussing”, “liquid lens”, “electrowetting lens”, “piezo-objective”)
 
 
